@@ -55,6 +55,6 @@
     //message with user's final grade percentage and letter grade
     alert("Your final grade is " + finalGrade + "% which is an " + letterGrade);
 
-    //document.getElementById("output").innerHTML = finalGrade
+    document.getElementById("output").innerHTML = finalGrade
 })
 
